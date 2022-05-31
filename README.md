@@ -37,6 +37,17 @@ This repository is build for the proposed solution for ill-exposed image correct
 
 ## Requirements
 
-* Keras
-* Numpy
+* Python == 3.6
+* Keras == 2.9.0 
+* Numpy== 1.20.0
+
+## Get started
+
+<p float="left">
+  <img src="/images/solution/arquitetura.png"/>
+</p>
+
+### Model Overview
+
+
 
