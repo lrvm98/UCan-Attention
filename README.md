@@ -37,6 +37,24 @@ This repository is build for the proposed solution for ill-exposed image correct
 
 ## Requirements
 
-* Keras
-* Numpy
+* Python == 3.6
+* Keras == 2.9.0 
+* Numpy== 1.20.0
+
+## Get started
+
+
+
+### Model Overview
+<p float="left">
+  <img src="/images/solution/arquitetura.png"/>
+</p>
+
+<p float="left">
+  <img src="/images/solution/rede_atencao.png" width="300"  title="Van Gogh, Self-portrait."/>
+  <img src="/images/solution/rede_restauracao.png" width="300" title="Van Gogh, Self-portrait."/> 
+  <img src="/images/solution/BAAC.png" width="300" title="Van Gogh, Self-portrait."/>
+</p>
+
+
 
