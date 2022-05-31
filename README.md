@@ -3,7 +3,11 @@ ATTENTION-BASED NEURAL NETWORK FOR ILL-EXPOSED IMAGE CORRECTION
 
 by Lucas Messias, Paulo Drews, Silvia Botelho.
 
-![1](/images/overexposure/output/new4_ucan000003.png) ![2](/images/overexposure/output/new4_ucan000019.png) ![3](/images/overexposure/output/new4_ucan000029.png)
+<p float="left">
+  <img src="/images/overexposure/output/new4_ucan000003.png" width="100" />
+  <img src="/images/overexposure/output/new4_ucan000019.pn" width="100" /> 
+  <img src="/images/overexposure/output/new4_ucan000029.png" width="100" />
+</p>
 
 
 ## Introduction
