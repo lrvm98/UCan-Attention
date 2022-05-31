@@ -52,11 +52,11 @@ This repository is build for the proposed solution for ill-exposed image correct
 
 <p float="left">
   a
-  <img src="/images/solution/rede_atencao.png" width="300"  />
+  <img src="/images/solution/rede_atencao.png" width="300"  title="Van Gogh, Self-portrait."/>
   b
-  <img src="/images/solution/rede_restauracao.png" width="300" /> 
+  <img src="/images/solution/rede_restauracao.png" width="300" title="Van Gogh, Self-portrait."/> 
   c
-  <img src="/images/solution/BAAC.png" width="300" />
+  <img src="/images/solution/BAAC.png" width="300" title="Van Gogh, Self-portrait."/>
 </p>
 
 
