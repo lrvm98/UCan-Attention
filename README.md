@@ -47,7 +47,9 @@ This repository is build for the proposed solution for ill-exposed image correct
 
 ### Model Overview
 
-The source files are located in `src` folder. The models are described in `model_definition.py`
+The source files are located in `src` folder. The models are described in `model_definition.py`.
+
+The images above are related to macro archiecture, attention network, restorarion nertowrk and the Attention and Context Aggregation Block (ACAB).  
 
 <p float="left">
   <img src="/images/solution/arquitetura.png"/>
