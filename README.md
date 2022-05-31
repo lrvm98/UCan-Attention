@@ -51,8 +51,11 @@ This repository is build for the proposed solution for ill-exposed image correct
 </p>
 
 <p float="left">
+  a
   <img src="/images/solution/rede_atencao.png" width="300"  />
+  b
   <img src="/images/solution/rede_restauracao.png" width="300" /> 
+  c
   <img src="/images/solution/BAAC.png" width="300" />
 </p>
 
