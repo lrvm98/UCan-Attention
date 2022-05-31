@@ -43,11 +43,18 @@ This repository is build for the proposed solution for ill-exposed image correct
 
 ## Get started
 
+
+
+### Model Overview
 <p float="left">
   <img src="/images/solution/arquitetura.png"/>
 </p>
 
-### Model Overview
+<p float="left">
+  <img src="/images/solution/rede_atencao.png"  />
+  <img src="/images/solution/rede_restauracao.png"  /> 
+  <img src="/images/solution/BAAC.png"  />
+</p>
 
 
 
