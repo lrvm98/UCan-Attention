@@ -6,9 +6,9 @@ by Lucas Messias, Paulo Drews, Silvia Botelho.
 #### Overexposure results
 
 <p float="left">
-  <img src="/images/overexposure/input/000003.png" width="300" />
-  <img src="/images/overexposure/input/000019.png" width="300" /> 
-  <img src="/images/overexposure/input/000028.png" width="300" />
+  <img src="/images/overexposure/input/000003.png" width="200" />
+  <img src="/images/overexposure/input/000019.png" width="200" /> 
+  <img src="/images/overexposure/input/000028.png" width="200" />
 </p>
 
 <p float="left">
