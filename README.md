@@ -33,7 +33,7 @@ by Lucas Messias, Paulo Drews, Silvia Botelho.
 
 ## Introduction
 
-This repository is build for the proposed solution for ill-exposed image correction 
+This repository is build for the proposed method for ill-exposed image correction 
 
 ## Requirements
 
