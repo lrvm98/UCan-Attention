@@ -46,6 +46,9 @@ This repository is build for the proposed solution for ill-exposed image correct
 
 
 ### Model Overview
+
+The source files are located in `src` folder. The models are described in `model_definition.py`
+
 <p float="left">
   <img src="/images/solution/arquitetura.png"/>
 </p>
